@@ -13,7 +13,7 @@ Model Serving Framework / Libraries : Ollama (https://ollama.com/)
 User Interface : Streamlit (https://streamlit.io/) 
 
 Document type used for RAG: PDF Document
-LLM Model: meta-llama/Meta-Llama-3.1-8B-Instruct [https://lnkd.in/gmjDrdfj] [The latest and greatest model from Meta!]
+LLM Model: Phi-3-mini-4k-instruct-int4-ov
 
 Embedding Model: BAAI/bge-large-en-v1.5
 
@@ -21,9 +21,8 @@ Vector Store: In Memory from Llama Index (https://lnkd.in/gZWqXRvv)
 
 **Hardware Configuration:**
 
-CPU : Intel 4th Gen Xeon 8480+
+CPU : Intel Core Ultra 7
 RAM usage: 12GB (During RAG Prompt), 5GB (During document indexing)
-OS: Ubuntu 22.04
 
 **Observation:**
 
@@ -50,7 +49,7 @@ Therefore, the TCO delta is approximately 62%.
 
 1) Clone the project:
    ``` 
-   git clone https://github.com/allenwsh82/llm_chatbot_rag_llamaindex
+   git clone https://github.com/allenwsh82/Intel_AI_PC
 
    ```
    

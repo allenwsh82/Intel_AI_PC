@@ -74,4 +74,5 @@ Therefore, the TCO delta is approximately 62%.
 
 Screen shot of how the Demo's GUI looks like 
 
-![Rag_Images](https://github.com/user-attachments/assets/ac5b3df6-39a1-4934-bd9d-2d8051584743)
+![LNL_AI_PC](https://github.com/user-attachments/assets/b3fac619-21f6-45c9-aa5b-04777543dcec)
+

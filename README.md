@@ -1,8 +1,5 @@
 # Building An AI ChatBot with LlamaIndex Framework
 
-
-<img width="1000" alt="AI_ChatBot_RAG_LlamaIndex" src="https://github.com/user-attachments/assets/e6938e23-9593-4cd6-95c0-f8e8fb5dffce">
-
 ![Dell_AI_ChatBot](https://github.com/user-attachments/assets/e8c0fa1c-1fe3-4324-ac63-5f20cc8899ea)
 
 

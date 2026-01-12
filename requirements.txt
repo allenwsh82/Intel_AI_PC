@@ -3,3 +3,4 @@ streamlit
 Pillow
 IPython
 llama_index.embeddings.huggingface
+llama_index.llms.openvino_genai

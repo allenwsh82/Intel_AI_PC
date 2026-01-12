@@ -2,3 +2,4 @@ llama-index
 streamlit
 Pillow
 IPython
+llama_index.embeddings.huggingface

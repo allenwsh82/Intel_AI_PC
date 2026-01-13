@@ -31,10 +31,10 @@ model_path = "Phi-3-mini-4k-instruct-int4-ov"
 snapshot_download(repo_id=model_id, local_dir=model_path)
 
 #Insert Intel Logo (Make sure u point the right path to the logo your save)
-st.logo("D:\\Intel\\llm_chatbot_rag_llamaindex\\Intel_LNL.jpg")
+#st.logo("D:\\Intel\\llm_chatbot_rag_llamaindex\\Intel_LNL.jpg")
 
 #Insert Intel AI Everywhere 
-st.image ("D:\\Intel\\llm_chatbot_rag_llamaindex\\intel_Core_Ultra_Image.jpg", caption="Intel AI Everywhere!")
+#st.image ("D:\\Intel\\llm_chatbot_rag_llamaindex\\intel_Core_Ultra_Image.jpg", caption="Intel AI Everywhere!")
 
 if "id" not in st.session_state:
     st.session_state.id = uuid.uuid4()
